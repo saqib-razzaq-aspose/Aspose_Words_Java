@@ -8,17 +8,12 @@ bin/
 * out*
 *.ldb
 _ReSharper*/
-*.iws
-*.iml
-*.ipr
-*.eml
 out/
 *.user
 *.resx
 nbproject/
 target/
 build/
-build.xml
 Thumbs.db
 manifest.mf
 Out/
@@ -26,6 +21,4 @@ Out*/
 .settings/
 *.lic
 Data/*Out*
-.idea/
-pom.xml
 /dist/
